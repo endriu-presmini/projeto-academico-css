@@ -1,0 +1,56 @@
+div {
+    justify-content: center;
+    display: inline-flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+body{
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    font-family: arial;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+section {
+    background-color: gray;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#div-cinza {
+    background-color: gray;
+    text-align: center;
+    width: 93%;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+    text-align: center;
+    gap: 30px;
+}
