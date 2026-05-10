@@ -24,7 +24,7 @@ Site institucional desenvolvido como exercício acadêmico para praticar proprie
 
 ## 🌐 Acesse o projeto
 
-[🔗 Ver online](https://proendriulike.github.io/projeto-academico-css)
+[🔗 Ver online](https://endriu-presmini.github.io/projeto-academico-css)
 
 ---
 
